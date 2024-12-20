@@ -2,6 +2,7 @@
 
 ![OpenQuake Logo](https://raw.githubusercontent.com/gem/oq-infrastructure/master/logos/oq-logo.png)
 
+
 The **OpenQuake Engine** is an open source software that provides calculation and assessment of seismic hazard, risk and decision-making tools via the data, methods and standards that are being developed by the **[GEM](http://www.globalquakemodel.org)** (Global Earthquake Model) Foundation and its collaborators.
 DOI: [10.13117/openquake.engine](https://doi.org/10.13117/openquake.engine)
 
